@@ -21,3 +21,12 @@ Recreating Vera Molnár's [Untitled 13](https://www.artsy.net/artwork/vera-molna
 | Original | Recreation |
 | --- | --- |
 | ![John Whitney Catalog](./_assets/whitneyOriginalCatalog.gif) | ![John Whitney Recreation](./_assets/whitneyRecreated.gif) |
+
+
+## John Maeda
+| Original | Recreation |
+| --- | --- |
+| ![Morisawa 10 #3](./_assets/maedaOriginal.jpg) | ![Morisawa Recreation](./_assets/maedaRecreated.png) |
+
+Curve finder with GUI
+![Morisawa Curve Finder](./_assets/maedaCurveFinder.gif)
