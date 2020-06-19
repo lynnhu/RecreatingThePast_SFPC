@@ -2,7 +2,7 @@
 
 // Set window size to be roughly A4 paper at 96PPI with left & right margin
 int width = 794;
-int height = 1123;
+int height = 1123 - 20;
 float lineWidth = 2;
 
 
