@@ -4,6 +4,12 @@ Class at School for Poetic Computation with Zach
 More about the class:
 https://sfpc.io/recreatingthepast-spring2020/
 
+Webring of Fellow Classmates:
+- [Norm](https://www.are.na/norman-o-hagan/recreating-the-past-shenanigans-summer-2020)
+- [Deniz](https://github.com/DenizBicer/RTP)
+- [Lisa](https://github.com/lisajamhoury/sfpc_rtp_hw)
+- [Edgardo](https://github.com/eaviles/sfpc-2020-rtp)
+
 ---
 
 ## Vera Molnar
