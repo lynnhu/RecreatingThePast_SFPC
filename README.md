@@ -9,6 +9,7 @@ Webring of Fellow Classmates:
 - [Deniz](https://github.com/DenizBicer/RTP)
 - [Lisa](https://github.com/lisajamhoury/sfpc_rtp_hw)
 - [Edgardo](https://github.com/eaviles/sfpc-2020-rtp)
+- [Todd](https://github.com/synesthete/rtp_sfpc_2020_summer)
 
 ---
 
